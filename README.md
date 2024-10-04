@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chetanchoudhari
-- 👀 I’m interested in ...creating video games
-- 🌱 I’m currently learning ...c++ ,python ,data learning
-- 💞️ 
+- 👀 I’m interested in Unity,Software Development,  
+- 🌱 I’m currently learning  Computer Architecture , Software Devlopment  
+- 💞️ Reach me here 
 - 📫 How to reach me ...chetanpawaryt@gmail.com
 
 <!---
