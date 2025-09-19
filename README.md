@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 - 💞️ Reach me here 
                   - 📫 How to reach me ... chetanchoudhary297@gmail.com
 ## 📬 Let's Connect  
-💌 Email: [chetan@gmail.com](mailto:chetan@gmail.com)  
+💌 Email: [chetanchoudhary297@gmail.com](mailto: chetanchoudhary297@gmail.com)  
 💼 LinkedIn: [https://www.linkedin.com/in/chetan-choudhary]  
 
 🚀 **Turning Imagination into Reality**  
